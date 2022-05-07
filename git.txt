@@ -1,0 +1,6 @@
+Before we finish here though, remember to save everything and (ensuring you’re in
+the main solution folder CommandAPISolution):
+
+• git add .
+• git commit -m “Added Model and Mock Repository”
+• git push origin master
